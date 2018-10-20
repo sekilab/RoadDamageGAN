@@ -7,7 +7,7 @@ Therefore, in this study, we showed that by using generative adversarial network
 
 ## Figures
 
-<img alt="img0" src=https://github.com/sekilab/RoadDamageGAN/blob/master/cropBoundingBox.py width="400px"/>
+<img alt="img0" src="https://github.com/sekilab/RoadDamageGAN/sampleImages.pdf" width="400px"/>
 Left: Sample image of Road Damage Dataset~\cite{c9}, middle: cropped area from the original image, right: resized image of \(128\times128 pixels\) from the cropped image
 
 
