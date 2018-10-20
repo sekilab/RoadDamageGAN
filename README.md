@@ -6,7 +6,7 @@ However, as serious road damages (pot hole, etc.) are less frequent, collecting 
 Therefore, in this study, we showed that by using generative adversarial networks (GANs) to obtain a damaged road image and use it as training data, the accuracy of judging the damage detection model can be improved. We conducted experiments using 15,430 damaged road images, and showed that the use of GAN-generated images improves the accuracy of judgment from 92% to 94%. We also showed the differences in the accuracy of the classification model based on the number of original training data. The dataset, our experimental results, and the code used in this study are publicly available.
 
 ## Figures
-![sample images]( "sample images")
+![sample images](sampleImages.pdf "sample images")
 From top raw to bottom, original damaged-road images, and generated images trained by 100, 500, 1000, 5000, and 10,000 damaged-road images
 
 ![create dataset]( "create dataset")
